@@ -65,8 +65,8 @@ Open your browser and go to http://127.0.0.1:8000/docs to see the interactive AP
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Peter-devv/Movie_Listing_App.git
-   cd Movie_Listing_App
+   git clone https://github.com/James0711/AltSchool-Capstone_Project.git
+   cd AltSchool-Capstone_Project
    ``` 
 
 2. **Install the dependencies**:
