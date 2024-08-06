@@ -57,7 +57,7 @@ PostgreSQL
 
 ## API documentation:
 
-Open your browser and go to http://127.0.0.1:8000/docs to see the interactive API documentation.
+Open your browser and go to ... to see the interactive API documentation.
 
 
 ### Installation
@@ -141,4 +141,4 @@ Contributions are welcome! Please create a pull request with a detailed descript
 
 ## Contact
 
-For more information, please contact [peterimade6@gmail.com](mailto:peterimade6@gmail.com).
+For more information, please contact [jengreat94@gmail.com](mailto:jengreat94@gmail.com).
