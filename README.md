@@ -125,7 +125,7 @@ MOVIE_API/
 │   ├── logger.py
 │   ├── main.py
 │   ├── models.py
-│   ├── oauth2.py
+│   ├── auth.py
 │   ├── schemas.py
 │   ├── text.txt
 │   ├── utils.py
